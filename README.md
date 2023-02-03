@@ -1,4 +1,4 @@
-# API-CHALLENGE-TO-ROTUNDA-SOFTWARE
+# API-CHALLENGE
 
 ## pre requirements
 - Install postman
